@@ -40,15 +40,16 @@ context.lineWidth = 10;
 context.stroke();
 context.fillStyle = "black";
 });
+for(var i=1; i<5; i++){
+		document.getElementById("i").loop=true;
+	}
 }
 window.addEventListener('load', init);
 
 
 
 
-	for(var i=1; i<4; i++){
-		document.getElementById("i").loop=true;
-	}
+	
 	// if(document.getElementById("1").paused){
 
 	// }
