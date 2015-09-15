@@ -1,0 +1,47 @@
+
+body {
+    background-color: #282828  ;
+
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+h1 {
+	background-color: black;
+	 font-family: "Helvetica";
+	 font-size: 5em;
+	 letter-spacing: 0.15em;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+video {
+padding: 0;
+    margin: auto;
+    display: block;
+    width: 60%;
+    
+
+}
+
+/*#videos{
+	text-align: center;
+
+}*/
+
+
+ canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 10em;
+}
+
+}
+
+    /*border-style: solid;
+   border-left-color: white;
+   border-right-color: white;
+*/
+
+
